@@ -18,4 +18,4 @@ It should be able to add, subtract, multiply, and divide. The clear button shoul
 			this.operand = operand;
 		}
 	}
-});
+})(window);
